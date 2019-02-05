@@ -1,0 +1,63 @@
+{
+    "greetings": {
+        "questions": [
+           "hey",
+           "yo",
+           "hello",
+           "Aur bhai"
+        ],
+        "answer":  "Aur bhai"          
+        
+        
+    },
+    "about bot": {
+        "questions": [
+            "who are you",
+            "what's your purpose?"
+            
+            
+        ],
+        "answer":  " Hey, I'm fuzzy bot, a chatbot created by FuzzySid! `Beep, Boop` :robot_face: "
+    },
+    "scene": {
+        "questions": [
+            "Arre kya scene hai?",
+            "App banaun kya?",
+            "Dot message karna"
+            
+            
+        ],
+        "answer": "Varun bhai college aa jaaya kar"
+    },
+    "ecell": {
+        "questions": [
+            "Ecell",
+            "familia",
+            "seriously",
+            "literally",
+            "cringe"
+            
+        ],
+        "answer": "You must be manthan the mammoth"
+    },
+    "beiser": {
+        "questions": [
+            "Blacksquad aajaao",
+            "Yaar kuch nhi padha"
+            
+            
+        ],
+        "answer": "Jhoothe saale :snake: "
+    },
+    "ikbh": {
+        "questions":[
+            "come on come on",
+            "Mere paas Xbox hai mere dost banoge?"
+            
+            
+            
+        ],
+        "answer": "baby baby awooo"
+    }
+   
+}
